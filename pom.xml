@@ -10,4 +10,5 @@
         <maven.compiler.release>25</maven.compiler.release>
         <exec.mainClass>com.mycompany.exercicio51.Exercicio51</exec.mainClass>
     </properties>
+    <name>sala_de_aula_exercicios</name>
 </project>
